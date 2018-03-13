@@ -1,0 +1,6 @@
+Stage,Op-Name,Op-Type,Op-Count,Byte-Count,Avg-ResTime,Avg-ProcTime,60%-ResTime,80%-ResTime,90%-ResTime,95%-ResTime,99%-ResTime,100%-ResTime,Throughput,Bandwidth,Succ-Ratio,Status,Detailed Status
+s1-init,init-write,init,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,completed,waiting @ 2018-03-13 15:56:50,booting @ 2018-03-13 15:56:50,submitting @ 2018-03-13 15:56:51,authing @ 2018-03-13 15:56:51,launching @ 2018-03-13 15:56:51,running @ 2018-03-13 15:56:51,closing @ 2018-03-13 15:57:01,completed @ 2018-03-13 15:57:02
+s2-prepare,prepare-write,prepare,1600,102400000,142.91,142.62,140,150,170,200,270,2450,6.99,447257.27,100%,completed,waiting @ 2018-03-13 15:56:50,booting @ 2018-03-13 15:57:04,submitting @ 2018-03-13 15:57:04,authing @ 2018-03-13 15:57:04,launching @ 2018-03-13 15:57:04,running @ 2018-03-13 15:57:04,closing @ 2018-03-13 16:00:55,completed @ 2018-03-13 16:00:55
+normal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,terminated,waiting @ 2018-03-13 15:56:50,booting @ 2018-03-13 16:00:57,terminated @ 2018-03-13 16:05:11
+cleanup,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,aborted,waiting @ 2018-03-13 15:56:50,aborted @ 2018-03-13 16:05:11
+dispose,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,aborted,waiting @ 2018-03-13 15:56:50,aborted @ 2018-03-13 16:05:11

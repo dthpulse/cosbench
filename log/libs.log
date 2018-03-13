@@ -1,0 +1,499 @@
+2018-03-12 16:40:54,704 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-12 16:40:54,711 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-12 16:40:54,711 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-12 16:40:54,711 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-12 16:40:54,712 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-12 16:40:54,712 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-12 16:40:54,712 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-12 16:40:54,713 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-12 16:40:54,809 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-12 16:40:54,810 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-12 16:40:54,810 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-12 16:40:54,810 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-12 16:40:54,811 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-12 16:40:54,811 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-12 16:41:01,864 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-12 16:41:01,879 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-12 16:41:01,880 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-12 16:41:01,881 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-12 16:41:01,882 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-12 16:41:01,882 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-12 16:41:01,882 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-12 16:41:01,885 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-12 16:41:01,886 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-12 16:41:01,886 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-12 16:41:01,886 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-12 16:41:01,887 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-12 16:41:01,887 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-12 16:41:01,887 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-12 16:49:02,047 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-12 16:49:02,049 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-12 16:49:02,078 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-12 16:49:02,078 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-12 16:49:02,078 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-12 16:49:02,079 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-12 16:49:02,079 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-12 16:49:02,079 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-12 16:49:02,080 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-12 16:49:02,080 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-12 16:49:02,080 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-12 16:49:02,081 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-12 16:49:02,081 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-12 16:49:02,218 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-12 16:49:08,621 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-12 16:49:08,647 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-12 16:49:08,648 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-12 16:49:08,648 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-12 16:49:08,648 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-12 16:49:08,649 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-12 16:49:08,649 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-12 16:49:08,652 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-12 16:49:08,653 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-12 16:49:08,653 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-12 16:49:08,653 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-12 16:49:08,653 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-12 16:49:08,654 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-12 16:49:08,654 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-12 16:49:48,586 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-12 16:49:48,589 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-12 16:49:48,589 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-12 16:49:48,645 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-12 16:49:48,646 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-12 16:49:48,646 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-12 16:49:48,647 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-12 16:49:48,647 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-12 16:49:48,647 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-12 16:49:48,648 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-12 16:49:48,648 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-12 16:49:48,648 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-12 16:49:48,649 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-12 16:49:48,649 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-12 16:49:55,089 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-12 16:49:55,100 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-12 16:49:55,101 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-12 16:49:55,101 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-12 16:49:55,102 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-12 16:49:55,102 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-12 16:49:55,102 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-12 16:49:55,103 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-12 16:49:55,103 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-12 16:49:55,103 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-12 16:49:55,104 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-12 16:49:55,104 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-12 16:49:55,104 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-12 16:49:55,104 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 12:15:41,629 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 12:15:41,687 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 12:15:41,688 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 12:15:41,688 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 12:15:41,688 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 12:15:41,689 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 12:15:41,689 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 12:15:41,746 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 12:15:41,746 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 12:15:41,746 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 12:15:41,747 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 12:15:41,747 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 12:15:41,747 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 12:15:41,748 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 12:15:48,141 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 12:15:48,156 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 12:15:48,156 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 12:15:48,157 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 12:15:48,158 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 12:15:48,158 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 12:15:48,158 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 12:15:48,162 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 12:15:48,166 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 12:15:48,167 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 12:15:48,167 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 12:15:48,167 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 12:15:48,167 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 12:15:48,167 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 12:18:19,051 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 12:18:19,077 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 12:18:19,078 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 12:18:19,078 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 12:18:19,079 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 12:18:19,079 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 12:18:19,079 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 12:18:19,080 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 12:18:19,080 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 12:18:19,080 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 12:18:19,081 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 12:18:19,081 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 12:18:19,151 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 12:18:19,152 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 12:18:25,762 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 12:18:25,766 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 12:18:25,766 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 12:18:25,767 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 12:18:25,767 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 12:18:25,768 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 12:18:25,768 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 12:18:25,777 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 12:18:25,777 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 12:18:25,778 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 12:18:25,778 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 12:18:25,778 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 12:18:25,779 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 12:18:25,779 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 12:18:27,702 [ERROR] [SpringOsgiExtenderThread-2] org.springframework.osgi.extender.internal.support.DefaultOsgiBundleApplicationContextListener - Application context refresh failed (OsgiBundleXmlApplicationContext(bundle=cosbench-controller, config=osgibundle:/META-INF/spring/*.xml))
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'controller' defined in URL [bundleentry://66.fwk1330106945/META-INF/spring/controller-context.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanDefinitionStoreException: Factory method [public com.intel.cosbench.service.ControllerService com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerService()] threw exception; nested exception is com.intel.cosbench.config.ConfigException: no such key defined: driver1.name
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:581)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:983)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:879)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:485)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:580)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:895)
+	at org.springframework.osgi.context.support.AbstractDelegatedExecutionApplicationContext.access$1600(AbstractDelegatedExecutionApplicationContext.java:62)
+	at org.springframework.osgi.context.support.AbstractDelegatedExecutionApplicationContext$4.run(AbstractDelegatedExecutionApplicationContext.java:327)
+	at org.springframework.osgi.util.internal.PrivilegedUtils.executeWithCustomTCCL(PrivilegedUtils.java:87)
+	at org.springframework.osgi.context.support.AbstractDelegatedExecutionApplicationContext.completeRefresh(AbstractDelegatedExecutionApplicationContext.java:292)
+	at org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor$CompleteRefreshTask.run(DependencyWaiterApplicationContextExecutor.java:138)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.beans.factory.BeanDefinitionStoreException: Factory method [public com.intel.cosbench.service.ControllerService com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerService()] threw exception; nested exception is com.intel.cosbench.config.ConfigException: no such key defined: driver1.name
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:157)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:570)
+	... 16 more
+Caused by: com.intel.cosbench.config.ConfigException: no such key defined: driver1.name
+	at com.intel.cosbench.config.common.COSBConfigApator.checkKey(COSBConfigApator.java:97)
+	at com.intel.cosbench.config.common.COSBConfigApator.get(COSBConfigApator.java:40)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.loadDriverName(COSBControllerServiceFactory.java:155)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getDriverContext(COSBControllerServiceFactory.java:148)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getDriverRegistry(COSBControllerServiceFactory.java:140)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerContext(COSBControllerServiceFactory.java:83)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerService(COSBControllerServiceFactory.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:145)
+	... 17 more
+2018-03-13 12:18:27,708 [ERROR] [SpringOsgiExtenderThread-2] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Unable to create application context for [cosbench-controller], unsatisfied dependencies: none
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'controller' defined in URL [bundleentry://66.fwk1330106945/META-INF/spring/controller-context.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanDefinitionStoreException: Factory method [public com.intel.cosbench.service.ControllerService com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerService()] threw exception; nested exception is com.intel.cosbench.config.ConfigException: no such key defined: driver1.name
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:581)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:983)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:879)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:485)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:580)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:895)
+	at org.springframework.osgi.context.support.AbstractDelegatedExecutionApplicationContext.access$1600(AbstractDelegatedExecutionApplicationContext.java:62)
+	at org.springframework.osgi.context.support.AbstractDelegatedExecutionApplicationContext$4.run(AbstractDelegatedExecutionApplicationContext.java:327)
+	at org.springframework.osgi.util.internal.PrivilegedUtils.executeWithCustomTCCL(PrivilegedUtils.java:87)
+	at org.springframework.osgi.context.support.AbstractDelegatedExecutionApplicationContext.completeRefresh(AbstractDelegatedExecutionApplicationContext.java:292)
+	at org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor$CompleteRefreshTask.run(DependencyWaiterApplicationContextExecutor.java:138)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.beans.factory.BeanDefinitionStoreException: Factory method [public com.intel.cosbench.service.ControllerService com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerService()] threw exception; nested exception is com.intel.cosbench.config.ConfigException: no such key defined: driver1.name
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:157)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:570)
+	... 16 more
+Caused by: com.intel.cosbench.config.ConfigException: no such key defined: driver1.name
+	at com.intel.cosbench.config.common.COSBConfigApator.checkKey(COSBConfigApator.java:97)
+	at com.intel.cosbench.config.common.COSBConfigApator.get(COSBConfigApator.java:40)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.loadDriverName(COSBControllerServiceFactory.java:155)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getDriverContext(COSBControllerServiceFactory.java:148)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getDriverRegistry(COSBControllerServiceFactory.java:140)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerContext(COSBControllerServiceFactory.java:83)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerService(COSBControllerServiceFactory.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:145)
+	... 17 more
+2018-03-13 12:21:34,400 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 12:21:34,471 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 12:21:34,472 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 12:21:34,472 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 12:21:34,472 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 12:21:34,473 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 12:21:34,534 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 12:21:34,654 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 12:21:34,654 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 12:21:34,654 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 12:21:34,655 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 12:21:34,655 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 12:21:34,655 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 12:21:34,656 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 12:21:35,875 [ERROR] [SpringOsgiExtenderThread-22] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Expecting state (RESOLVING_DEPENDENCIES) not (DEPENDENCIES_RESOLVED) for context [OsgiBundleXmlApplicationContext(bundle=cosbench-driver, config=osgibundle:/META-INF/spring/*.xml)]; assuming an interruption and bailing out
+2018-03-13 12:21:35,955 [ERROR] [SpringOsgiExtenderThread-23] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Expecting state (RESOLVING_DEPENDENCIES) not (DEPENDENCIES_RESOLVED) for context [OsgiBundleXmlApplicationContext(bundle=cosbench-driver, config=osgibundle:/META-INF/spring/*.xml)]; assuming an interruption and bailing out
+2018-03-13 12:21:35,957 [ERROR] [SpringOsgiExtenderThread-13] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Expecting state (RESOLVING_DEPENDENCIES) not (DEPENDENCIES_RESOLVED) for context [OsgiBundleXmlApplicationContext(bundle=cosbench-driver, config=osgibundle:/META-INF/spring/*.xml)]; assuming an interruption and bailing out
+2018-03-13 12:21:35,958 [ERROR] [SpringOsgiExtenderThread-14] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Expecting state (RESOLVING_DEPENDENCIES) not (DEPENDENCIES_RESOLVED) for context [OsgiBundleXmlApplicationContext(bundle=cosbench-driver, config=osgibundle:/META-INF/spring/*.xml)]; assuming an interruption and bailing out
+2018-03-13 12:21:35,959 [ERROR] [SpringOsgiExtenderThread-16] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Expecting state (RESOLVING_DEPENDENCIES) not (DEPENDENCIES_RESOLVED) for context [OsgiBundleXmlApplicationContext(bundle=cosbench-driver, config=osgibundle:/META-INF/spring/*.xml)]; assuming an interruption and bailing out
+2018-03-13 12:21:35,960 [ERROR] [SpringOsgiExtenderThread-17] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Expecting state (RESOLVING_DEPENDENCIES) not (DEPENDENCIES_RESOLVED) for context [OsgiBundleXmlApplicationContext(bundle=cosbench-driver, config=osgibundle:/META-INF/spring/*.xml)]; assuming an interruption and bailing out
+2018-03-13 12:21:35,972 [ERROR] [SpringOsgiExtenderThread-18] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Expecting state (RESOLVING_DEPENDENCIES) not (DEPENDENCIES_RESOLVED) for context [OsgiBundleXmlApplicationContext(bundle=cosbench-driver, config=osgibundle:/META-INF/spring/*.xml)]; assuming an interruption and bailing out
+2018-03-13 12:21:35,973 [ERROR] [SpringOsgiExtenderThread-15] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Expecting state (RESOLVING_DEPENDENCIES) not (DEPENDENCIES_RESOLVED) for context [OsgiBundleXmlApplicationContext(bundle=cosbench-driver, config=osgibundle:/META-INF/spring/*.xml)]; assuming an interruption and bailing out
+2018-03-13 12:21:35,974 [ERROR] [SpringOsgiExtenderThread-19] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Expecting state (RESOLVING_DEPENDENCIES) not (DEPENDENCIES_RESOLVED) for context [OsgiBundleXmlApplicationContext(bundle=cosbench-driver, config=osgibundle:/META-INF/spring/*.xml)]; assuming an interruption and bailing out
+2018-03-13 12:21:41,645 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 12:21:41,665 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 12:21:41,666 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 12:21:41,666 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 12:21:41,667 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 12:21:41,667 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 12:21:41,667 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 12:21:41,668 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 12:21:41,670 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 12:21:41,670 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 12:21:41,670 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 12:21:41,671 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 12:21:41,671 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 12:21:41,671 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 12:21:43,388 [ERROR] [SpringOsgiExtenderThread-2] org.springframework.osgi.extender.internal.support.DefaultOsgiBundleApplicationContextListener - Application context refresh failed (OsgiBundleXmlApplicationContext(bundle=cosbench-controller, config=osgibundle:/META-INF/spring/*.xml))
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'controller' defined in URL [bundleentry://66.fwk1330106945/META-INF/spring/controller-context.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanDefinitionStoreException: Factory method [public com.intel.cosbench.service.ControllerService com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerService()] threw exception; nested exception is com.intel.cosbench.config.ConfigException: no such key defined: driver1.name
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:581)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:983)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:879)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:485)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:580)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:895)
+	at org.springframework.osgi.context.support.AbstractDelegatedExecutionApplicationContext.access$1600(AbstractDelegatedExecutionApplicationContext.java:62)
+	at org.springframework.osgi.context.support.AbstractDelegatedExecutionApplicationContext$4.run(AbstractDelegatedExecutionApplicationContext.java:327)
+	at org.springframework.osgi.util.internal.PrivilegedUtils.executeWithCustomTCCL(PrivilegedUtils.java:87)
+	at org.springframework.osgi.context.support.AbstractDelegatedExecutionApplicationContext.completeRefresh(AbstractDelegatedExecutionApplicationContext.java:292)
+	at org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor$CompleteRefreshTask.run(DependencyWaiterApplicationContextExecutor.java:138)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.beans.factory.BeanDefinitionStoreException: Factory method [public com.intel.cosbench.service.ControllerService com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerService()] threw exception; nested exception is com.intel.cosbench.config.ConfigException: no such key defined: driver1.name
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:157)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:570)
+	... 16 more
+Caused by: com.intel.cosbench.config.ConfigException: no such key defined: driver1.name
+	at com.intel.cosbench.config.common.COSBConfigApator.checkKey(COSBConfigApator.java:97)
+	at com.intel.cosbench.config.common.COSBConfigApator.get(COSBConfigApator.java:40)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.loadDriverName(COSBControllerServiceFactory.java:155)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getDriverContext(COSBControllerServiceFactory.java:148)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getDriverRegistry(COSBControllerServiceFactory.java:140)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerContext(COSBControllerServiceFactory.java:83)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerService(COSBControllerServiceFactory.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:145)
+	... 17 more
+2018-03-13 12:21:43,395 [ERROR] [SpringOsgiExtenderThread-2] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Unable to create application context for [cosbench-controller], unsatisfied dependencies: none
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'controller' defined in URL [bundleentry://66.fwk1330106945/META-INF/spring/controller-context.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanDefinitionStoreException: Factory method [public com.intel.cosbench.service.ControllerService com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerService()] threw exception; nested exception is com.intel.cosbench.config.ConfigException: no such key defined: driver1.name
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:581)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:983)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:879)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:485)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:580)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:895)
+	at org.springframework.osgi.context.support.AbstractDelegatedExecutionApplicationContext.access$1600(AbstractDelegatedExecutionApplicationContext.java:62)
+	at org.springframework.osgi.context.support.AbstractDelegatedExecutionApplicationContext$4.run(AbstractDelegatedExecutionApplicationContext.java:327)
+	at org.springframework.osgi.util.internal.PrivilegedUtils.executeWithCustomTCCL(PrivilegedUtils.java:87)
+	at org.springframework.osgi.context.support.AbstractDelegatedExecutionApplicationContext.completeRefresh(AbstractDelegatedExecutionApplicationContext.java:292)
+	at org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor$CompleteRefreshTask.run(DependencyWaiterApplicationContextExecutor.java:138)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.beans.factory.BeanDefinitionStoreException: Factory method [public com.intel.cosbench.service.ControllerService com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerService()] threw exception; nested exception is com.intel.cosbench.config.ConfigException: no such key defined: driver1.name
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:157)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:570)
+	... 16 more
+Caused by: com.intel.cosbench.config.ConfigException: no such key defined: driver1.name
+	at com.intel.cosbench.config.common.COSBConfigApator.checkKey(COSBConfigApator.java:97)
+	at com.intel.cosbench.config.common.COSBConfigApator.get(COSBConfigApator.java:40)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.loadDriverName(COSBControllerServiceFactory.java:155)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getDriverContext(COSBControllerServiceFactory.java:148)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getDriverRegistry(COSBControllerServiceFactory.java:140)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerContext(COSBControllerServiceFactory.java:83)
+	at com.intel.cosbench.controller.service.COSBControllerServiceFactory.getControllerService(COSBControllerServiceFactory.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:145)
+	... 17 more
+2018-03-13 12:24:04,389 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 12:24:04,419 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 12:24:04,419 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 12:24:04,420 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 12:24:04,420 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 12:24:04,420 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 12:24:04,421 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 12:24:04,421 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 12:24:04,442 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 12:24:04,442 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 12:24:04,442 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 12:24:04,443 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 12:24:04,443 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 12:24:04,443 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 12:24:11,099 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 12:24:11,118 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 12:24:11,119 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 12:24:11,119 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 12:24:11,119 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 12:24:11,120 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 12:24:11,120 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 12:24:11,120 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 12:24:11,121 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 12:24:11,121 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 12:24:11,125 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 12:24:11,127 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 12:24:11,127 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 12:24:11,127 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 12:25:35,223 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 12:25:35,310 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 12:25:35,426 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 12:25:35,426 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 12:25:35,426 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 12:25:35,427 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 12:25:35,427 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 12:25:35,427 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 12:25:35,428 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 12:25:35,428 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 12:25:35,428 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 12:25:35,429 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 12:25:35,429 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 12:25:35,486 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 12:25:36,598 [ERROR] [SpringOsgiExtenderThread-16] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Expecting state (RESOLVING_DEPENDENCIES) not (DEPENDENCIES_RESOLVED) for context [OsgiBundleXmlApplicationContext(bundle=cosbench-driver, config=osgibundle:/META-INF/spring/*.xml)]; assuming an interruption and bailing out
+2018-03-13 12:25:36,633 [ERROR] [SpringOsgiExtenderThread-13] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Expecting state (RESOLVING_DEPENDENCIES) not (DEPENDENCIES_RESOLVED) for context [OsgiBundleXmlApplicationContext(bundle=cosbench-driver, config=osgibundle:/META-INF/spring/*.xml)]; assuming an interruption and bailing out
+2018-03-13 12:25:36,635 [ERROR] [SpringOsgiExtenderThread-17] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Expecting state (RESOLVING_DEPENDENCIES) not (DEPENDENCIES_RESOLVED) for context [OsgiBundleXmlApplicationContext(bundle=cosbench-driver, config=osgibundle:/META-INF/spring/*.xml)]; assuming an interruption and bailing out
+2018-03-13 12:25:36,636 [ERROR] [SpringOsgiExtenderThread-14] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Expecting state (RESOLVING_DEPENDENCIES) not (DEPENDENCIES_RESOLVED) for context [OsgiBundleXmlApplicationContext(bundle=cosbench-driver, config=osgibundle:/META-INF/spring/*.xml)]; assuming an interruption and bailing out
+2018-03-13 12:25:36,638 [ERROR] [SpringOsgiExtenderThread-15] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Expecting state (RESOLVING_DEPENDENCIES) not (DEPENDENCIES_RESOLVED) for context [OsgiBundleXmlApplicationContext(bundle=cosbench-driver, config=osgibundle:/META-INF/spring/*.xml)]; assuming an interruption and bailing out
+2018-03-13 12:25:42,344 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 12:25:42,358 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 12:25:42,359 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 12:25:42,359 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 12:25:42,359 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 12:25:42,360 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 12:25:42,360 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 12:25:42,360 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 12:25:42,361 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 12:25:42,374 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 12:25:42,375 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 12:25:42,375 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 12:25:42,375 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 12:25:42,376 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 12:54:02,302 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 12:54:02,305 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 12:54:02,367 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 12:54:02,367 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 12:54:02,368 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 12:54:02,368 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 12:54:02,368 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 12:54:02,369 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 12:54:02,429 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 12:54:02,430 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 12:54:02,430 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 12:54:02,430 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 12:54:02,431 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 12:54:02,431 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 12:54:03,878 [ERROR] [SpringOsgiExtenderThread-23] org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor - Expecting state (RESOLVING_DEPENDENCIES) not (DEPENDENCIES_RESOLVED) for context [OsgiBundleXmlApplicationContext(bundle=cosbench-driver, config=osgibundle:/META-INF/spring/*.xml)]; assuming an interruption and bailing out
+2018-03-13 12:54:09,499 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 12:54:09,526 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 12:54:09,527 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 12:54:09,527 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 12:54:09,527 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 12:54:09,528 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 12:54:09,528 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 12:54:09,528 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 12:54:09,529 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 12:54:09,531 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 12:54:09,531 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 12:54:09,532 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 12:54:09,532 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 12:54:09,532 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 12:59:29,654 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 12:59:29,657 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 12:59:29,733 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 12:59:29,734 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 12:59:29,734 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 12:59:29,735 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 12:59:29,735 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 12:59:29,735 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 12:59:29,736 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 12:59:29,736 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 12:59:29,736 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 12:59:29,737 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 12:59:29,737 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 12:59:29,776 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 12:59:36,361 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 12:59:36,370 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 12:59:36,371 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 12:59:36,371 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 12:59:36,371 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 12:59:36,372 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 12:59:36,372 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 12:59:36,372 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 12:59:36,373 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 12:59:36,373 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 12:59:36,385 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 12:59:36,386 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 12:59:36,386 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 12:59:36,386 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 13:02:19,621 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 13:02:19,668 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 13:02:19,668 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 13:02:19,669 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 13:02:19,669 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 13:02:19,694 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 13:02:19,694 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 13:02:19,695 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 13:02:19,695 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 13:02:19,695 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 13:02:19,696 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 13:02:19,696 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 13:02:19,697 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 13:02:19,697 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 13:02:26,515 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 13:02:26,525 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 13:02:26,525 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 13:02:26,526 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 13:02:26,526 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 13:02:26,526 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 13:02:26,527 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 13:02:26,527 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 13:02:26,527 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 13:02:26,528 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 13:02:26,528 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 13:02:26,528 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 13:02:26,529 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 13:02:26,529 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 16:06:29,975 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 16:06:29,977 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 16:06:30,021 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 16:06:30,022 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 16:06:30,022 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 16:06:30,023 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 16:06:30,023 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 16:06:30,023 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 16:06:30,024 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 16:06:30,024 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 16:06:30,024 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 16:06:30,025 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 16:06:30,025 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 16:06:30,073 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+2018-03-13 16:06:36,627 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_1_4.xsd
+2018-03-13 16:06:36,645 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/xml.xsd
+2018-03-13 16:06:36,646 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_0.xsd
+2018-03-13 16:06:36,646 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/jsp_2_1.xsd
+2018-03-13 16:06:36,646 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2018-03-13 16:06:36,647 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2018-03-13 16:06:36,647 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2018-03-13 16:06:36,647 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd
+2018-03-13 16:06:36,648 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_2.dtd
+2018-03-13 16:06:36,648 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_3.dtd
+2018-03-13 16:06:36,648 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_4.xsd
+2018-03-13 16:06:36,648 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/web-app_2_5.xsd
+2018-03-13 16:06:36,649 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_1_1.xsd
+2018-03-13 16:06:36,649 [WARN] [Timer-0] org.apache.catalina.startup.DigesterFactory - Could not get url for /javax/servlet/resources/j2ee_web_services_client_1_1.xsd
