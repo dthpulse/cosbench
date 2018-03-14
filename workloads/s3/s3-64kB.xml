@@ -5,63 +5,63 @@
 
   <workflow>
 
-    <workstage name="init">
+    <workstage name="init_w1_c1">
       <work type="init" workers="1" config="cprefix=s3testqwer;containers=r(1,1)" />
     </workstage>
 
-    <workstage name="init">
+    <workstage name="init_w64_c100_o200">
       <work type="init" workers="64" config="cprefix=s3testqwer;containers=r(101,200)" />
     </workstage>
 
-    <workstage name="prepare">
+    <workstage name="prepare_w1_c1_o100_64KB">
       <work type="prepare" workers="1" config="cprefix=s3testqwer;containers=r(1,1);objects=r(1,100);sizes=c(64)KB" />
     </workstage>
 
-    <workstage name="prepare">
+    <workstage name="prepare_w64_c100_o100_64KB">
       <work type="prepare" workers="64" config="cprefix=s3testqwer;containers=r(101,200);objects=r(101,200);sizes=c(64)KB" />
     </workstage>
 
-    <workstage name="main">
-      <work name="main" workers="64" runtime="300">
+    <workstage name="main_w1_r80_wr20_c1_o100_64KB">
+      <work name="main" workers="1" runtime="300">
         <operation type="read" ratio="80" config="cprefix=s3testqwer;containers=u(1,1);objects=u(1,100)" />
         <operation type="write" ratio="20" config="cprefix=s3testqwer;containers=u(1,1);objects=u(1,100);sizes=c(64)KB" />
       </work>
     </workstage>
 
-    <workstage name="main">
-      <work name="main" workers="64" runtime="300">
+    <workstage name="main_w1_r20_wr80_c1_o100_64KB">
+      <work name="main" workers="1" runtime="300">
         <operation type="read" ratio="20" config="cprefix=s3testqwer;containers=u(1,1);objects=u(1,100)" />
         <operation type="write" ratio="80" config="cprefix=s3testqwer;containers=u(1,1);objects=u(1,100);sizes=c(64)KB" />
       </work>
     </workstage>
 
-    <workstage name="main">
+    <workstage name="main_w64_r80_wr20_c100_o100_64KB">
       <work name="main" workers="64" runtime="300">
         <operation type="read" ratio="80" config="cprefix=s3testqwer;containers=u(101,200);objects=u(101,200)" />
         <operation type="write" ratio="20" config="cprefix=s3testqwer;containers=u(101,200);objects=u(101,200);sizes=c(64)KB" />
       </work>
     </workstage>
 
-    <workstage name="main">
+    <workstage name="main_w64_r20_wr80_c100_o100_64KB">
       <work name="main" workers="64" runtime="300">
         <operation type="read" ratio="20" config="cprefix=s3testqwer;containers=u(101,200);objects=u(101,200)" />
         <operation type="write" ratio="80" config="cprefix=s3testqwer;containers=u(101,200);objects=u(101,200);sizes=c(64)KB" />
       </work>
     </workstage>
 
-    <workstage name="cleanup">
+    <workstage name="cleanup_w1_c1_o100">
       <work type="cleanup" workers="1" config="cprefix=s3testqwer;containers=r(1,1);objects=r(1,100)" />
     </workstage>
 
-    <workstage name="cleanup">
+    <workstage name="cleanup_w64_c100_o100">
       <work type="cleanup" workers="64" config="cprefix=s3testqwer;containers=r(101,200);objects=r(101,200)" />
     </workstage>
 
-    <workstage name="dispose">
+    <workstage name="dispose_w1_c1">
       <work type="dispose" workers="1" config="cprefix=s3testqwer;containers=r(1,100)" />
     </workstage>
 
-    <workstage name="dispose">
+    <workstage name="dispose_w64_c100">
       <work type="dispose" workers="64" config="cprefix=s3testqwer;containers=r(101,200)" />
     </workstage>
 
