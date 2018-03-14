@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workload name="4kb" description="workload description" config="">
+    <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+    <storage type="swift" config=""/>
+    <workflow config="">
+        <workstage name="w(4)KB_c1_init_6" closuredelay="0" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="w(4)KB_c1_init_6" type="init" workers="6"
+                interval="5" division="container" runtime="0" rampup="0"
+                rampdown="0" afr="0" totalOps="6" totalBytes="0" config="containers=r(1,1)">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="init" ratio="100" division="container"
+                    config="containers=r(1,1);containers=r(1,1);objects=r(0,0);sizes=c(0)B;containers=r(1,1)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c100_init_6" closuredelay="0" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="w(4)KB_c100_init_6" type="init" workers="6"
+                interval="5" division="container" runtime="0" rampup="0"
+                rampdown="0" afr="0" totalOps="6" totalBytes="0" config="containers=r(101,200)">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="init" ratio="100" division="container"
+                    config="containers=r(101,200);containers=r(101,200);objects=r(0,0);sizes=c(0)B;containers=r(101,200)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c1_o100_prepare_16" closuredelay="0" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="w(4)KB_c1_o100_prepare_16" type="prepare"
+                workers="16" interval="5" division="object" runtime="0"
+                rampup="0" rampdown="0" afr="0" totalOps="16"
+                totalBytes="0" config="containers=r(1,1);objects=r(1,100);sizes=c(4)KB">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="prepare" ratio="100" division="object"
+                    config="containers=r(1,1);objects=r(1,100);sizes=c(4)KB;containers=r(1,1);objects=r(1,100);sizes=c(4)KB;createContainer=false;containers=r(1,1);objects=r(1,100);sizes=c(4)KB" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c100_o100_prepare_16" closuredelay="0" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="w(4)KB_c100_o100_prepare_16" type="prepare"
+                workers="16" interval="5" division="object" runtime="0"
+                rampup="0" rampdown="0" afr="0" totalOps="16"
+                totalBytes="0" config="containers=r(101,200);objects=r(101,200);sizes=c(4)KB">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="prepare" ratio="100" division="object"
+                    config="containers=r(101,200);objects=r(101,200);sizes=c(4)KB;containers=r(101,200);objects=r(101,200);sizes=c(4)KB;createContainer=false;containers=r(101,200);objects=r(101,200);sizes=c(4)KB" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c1_o100_r80w15d5_64" closuredelay="30" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="main" type="normal" workers="64" interval="5"
+                division="none" runtime="300" rampup="50" rampdown="0"
+                afr="200000" totalOps="0" totalBytes="0" config="">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="read" ratio="80" division="none"
+                    config="containers=u(1,1);objects=u(1,100)" id="none"/>
+                <operation type="write" ratio="15" division="none"
+                    config="containers=u(1,1);objects=u(1,100);sizes=c(4)KB" id="none"/>
+                <operation type="delete" ratio="5" division="none"
+                    config="containers=u(1,1);objects=u(1,100)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c1_o100_r15w80d5_64" closuredelay="30" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="main" type="normal" workers="64" interval="5"
+                division="none" runtime="300" rampup="50" rampdown="0"
+                afr="200000" totalOps="0" totalBytes="0" config="">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="read" ratio="15" division="none"
+                    config="containers=u(1,1);objects=u(1,100)" id="none"/>
+                <operation type="write" ratio="80" division="none"
+                    config="containers=u(1,1);objects=u(1,100);sizes=c(4)KB" id="none"/>
+                <operation type="delete" ratio="5" division="none"
+                    config="containers=u(1,1);objects=u(1,100)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c1_o100_r5w80d15_64" closuredelay="30" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="main" type="normal" workers="64" interval="5"
+                division="none" runtime="300" rampup="50" rampdown="0"
+                afr="200000" totalOps="0" totalBytes="0" config="">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="read" ratio="5" division="none"
+                    config="containers=u(1,1);objects=u(1,100)" id="none"/>
+                <operation type="write" ratio="80" division="none"
+                    config="containers=u(1,1);objects=u(1,100);sizes=c(4)KB" id="none"/>
+                <operation type="delete" ratio="15" division="none"
+                    config="containers=u(1,1);objects=u(1,100)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c1_o100_r80w5d15_64" closuredelay="30" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="main" type="normal" workers="64" interval="5"
+                division="none" runtime="300" rampup="50" rampdown="0"
+                afr="200000" totalOps="0" totalBytes="0" config="">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="read" ratio="80" division="none"
+                    config="containers=u(1,1);objects=u(1,100)" id="none"/>
+                <operation type="write" ratio="5" division="none"
+                    config="containers=u(1,1);objects=u(1,100);sizes=c(4)KB" id="none"/>
+                <operation type="delete" ratio="15" division="none"
+                    config="containers=u(1,1);objects=u(1,100)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c1_o100_r5w15d80_64" closuredelay="30" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="main" type="normal" workers="64" interval="5"
+                division="none" runtime="300" rampup="50" rampdown="0"
+                afr="200000" totalOps="0" totalBytes="0" config="">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="read" ratio="5" division="none"
+                    config="containers=u(1,1);objects=u(1,100)" id="none"/>
+                <operation type="write" ratio="15" division="none"
+                    config="containers=u(1,1);objects=u(1,100);sizes=c(4)KB" id="none"/>
+                <operation type="delete" ratio="80" division="none"
+                    config="containers=u(1,1);objects=u(1,100)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c1_o100_r15w5d80_64" closuredelay="30" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="main" type="normal" workers="64" interval="5"
+                division="none" runtime="300" rampup="50" rampdown="0"
+                afr="200000" totalOps="0" totalBytes="0" config="">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="read" ratio="15" division="none"
+                    config="containers=u(1,1);objects=u(1,100)" id="none"/>
+                <operation type="write" ratio="5" division="none"
+                    config="containers=u(1,1);objects=u(1,100);sizes=c(4)KB" id="none"/>
+                <operation type="delete" ratio="80" division="none"
+                    config="containers=u(1,1);objects=u(1,100)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c100_o100_r80w15d5_64" closuredelay="30" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="main" type="normal" workers="64" interval="5"
+                division="none" runtime="300" rampup="50" rampdown="0"
+                afr="200000" totalOps="0" totalBytes="0" config="">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="read" ratio="80" division="none"
+                    config="containers=u(101,200);objects=u(101,200)" id="none"/>
+                <operation type="write" ratio="15" division="none"
+                    config="containers=u(101,200);objects=u(101,200);sizes=c(4)KB" id="none"/>
+                <operation type="delete" ratio="5" division="none"
+                    config="containers=u(101,200);objects=u(101,200)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c100_o100_r15w80d5_64" closuredelay="30" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="main" type="normal" workers="64" interval="5"
+                division="none" runtime="300" rampup="50" rampdown="0"
+                afr="200000" totalOps="0" totalBytes="0" config="">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="read" ratio="15" division="none"
+                    config="containers=u(101,200);objects=u(101,200)" id="none"/>
+                <operation type="write" ratio="80" division="none"
+                    config="containers=u(101,200);objects=u(101,200);sizes=c(4)KB" id="none"/>
+                <operation type="delete" ratio="5" division="none"
+                    config="containers=u(101,200);objects=u(101,200)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c100_o100_r5w80d15_64" closuredelay="30" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="main" type="normal" workers="64" interval="5"
+                division="none" runtime="300" rampup="50" rampdown="0"
+                afr="200000" totalOps="0" totalBytes="0" config="">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="read" ratio="5" division="none"
+                    config="containers=u(101,200);objects=u(101,200)" id="none"/>
+                <operation type="write" ratio="80" division="none"
+                    config="containers=u(101,200);objects=u(101,200);sizes=c(4)KB" id="none"/>
+                <operation type="delete" ratio="15" division="none"
+                    config="containers=u(101,200);objects=u(101,200)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c100_o100_r80w5d15_64" closuredelay="30" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="main" type="normal" workers="64" interval="5"
+                division="none" runtime="300" rampup="50" rampdown="0"
+                afr="200000" totalOps="0" totalBytes="0" config="">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="read" ratio="80" division="none"
+                    config="containers=u(101,200);objects=u(101,200)" id="none"/>
+                <operation type="write" ratio="5" division="none"
+                    config="containers=u(101,200);objects=u(101,200);sizes=c(4)KB" id="none"/>
+                <operation type="delete" ratio="15" division="none"
+                    config="containers=u(101,200);objects=u(101,200)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c100_o100_r5w15d80_64" closuredelay="30" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="main" type="normal" workers="64" interval="5"
+                division="none" runtime="300" rampup="50" rampdown="0"
+                afr="200000" totalOps="0" totalBytes="0" config="">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="read" ratio="5" division="none"
+                    config="containers=u(101,200);objects=u(101,200)" id="none"/>
+                <operation type="write" ratio="15" division="none"
+                    config="containers=u(101,200);objects=u(101,200);sizes=c(4)KB" id="none"/>
+                <operation type="delete" ratio="80" division="none"
+                    config="containers=u(101,200);objects=u(101,200)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c100_o100_r15w5d80_64" closuredelay="30" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="main" type="normal" workers="64" interval="5"
+                division="none" runtime="300" rampup="50" rampdown="0"
+                afr="200000" totalOps="0" totalBytes="0" config="">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="read" ratio="15" division="none"
+                    config="containers=u(101,200);objects=u(101,200)" id="none"/>
+                <operation type="write" ratio="5" division="none"
+                    config="containers=u(101,200);objects=u(101,200);sizes=c(4)KB" id="none"/>
+                <operation type="delete" ratio="80" division="none"
+                    config="containers=u(101,200);objects=u(101,200)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c1_o100_cleanup_6" closuredelay="0" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="w(4)KB_c1_o100_cleanup_6" type="cleanup"
+                workers="6" interval="5" division="object" runtime="0"
+                rampup="0" rampdown="0" afr="0" totalOps="6"
+                totalBytes="0" config="containers=r(1,1);objects=r(1,100)">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="cleanup" ratio="100" division="object"
+                    config="containers=r(1,1);objects=r(1,100);containers=r(1,1);objects=r(1,100);deleteContainer=false;containers=r(1,1);objects=r(1,100)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c100_o100_cleanup_6" closuredelay="0" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="w(4)KB_c100_o100_cleanup_6" type="cleanup"
+                workers="6" interval="5" division="object" runtime="0"
+                rampup="0" rampdown="0" afr="0" totalOps="6"
+                totalBytes="0" config="containers=r(101,200);objects=r(101,200)">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="cleanup" ratio="100" division="object"
+                    config="containers=r(101,200);objects=r(101,200);containers=r(101,200);objects=r(101,200);deleteContainer=false;containers=r(101,200);objects=r(101,200)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c1_dispose_6" closuredelay="0" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="w(4)KB_c1_dispose_6" type="dispose" workers="6"
+                interval="5" division="container" runtime="0" rampup="0"
+                rampdown="0" afr="0" totalOps="6" totalBytes="0" config="containers=r(1,1)">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="dispose" ratio="100"
+                    division="container"
+                    config="containers=r(1,1);containers=r(1,1);objects=r(0,0);sizes=c(0)B;containers=r(1,1)" id="none"/>
+            </work>
+        </workstage>
+        <workstage name="w(4)KB_c100_dispose_6" closuredelay="0" config="">
+            <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+            <storage type="swift" config=""/>
+            <work name="w(4)KB_c100_dispose_6" type="dispose"
+                workers="6" interval="5" division="container"
+                runtime="0" rampup="0" rampdown="0" afr="0" totalOps="6"
+                totalBytes="0" config="containers=r(101,200)">
+                <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000"/>
+                <storage type="swift" config=""/>
+                <operation type="dispose" ratio="100"
+                    division="container"
+                    config="containers=r(101,200);containers=r(101,200);objects=r(0,0);sizes=c(0)B;containers=r(101,200)" id="none"/>
+            </work>
+        </workstage>
+    </workflow>
+</workload>
