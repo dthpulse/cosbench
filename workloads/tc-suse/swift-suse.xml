@@ -8,7 +8,7 @@
   -->
   
   <!-- MODIFY ME -->
-  <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;auth_url=http://10.100.96.54" />
+  <auth type="swauth" config="username=cosbench:cosbench;password=susetesting;url=http://10.100.96.54/auth/v2.0;retry=10;timeout=30000" />
 
   <!-- Keystone Authentication 
   <auth type="keystone" config="username=tester;password=testing;tenant_name=test;auth_url=http://127.0.0.1:5000/v2.0;service=swift service;region=regionOne" /> 
